@@ -39,5 +39,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:dkope451@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dkope451@gmail.com"><img src="https://img.shields.io/badge/-dkope451@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
