@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at dkope451@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at frank.johnson.dream@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,5 +38,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:dkope451@gmail.com"><img src="https://img.shields.io/badge/-dkope451@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:frank.johnson.dream@gmail.com"><img src="https://img.shields.io/badge/-dkope451@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
