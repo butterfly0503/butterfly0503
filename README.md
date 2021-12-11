@@ -38,5 +38,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:frank.johnson.dream@gmail.com"><img src="https://img.shields.io/badge/-dkope451@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:frank.johnson.dream@gmail.com"><img src="https://img.shields.io/badge/-frank.johnson.dream@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
