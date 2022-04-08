@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Johnson</h2>
+<h2>Hey there! I'm Senior King</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
